@@ -1,0 +1,9 @@
+SOFTWARE LICENSE AGREEMENT
+
+The licensor grants a limited license to use the software. All intellectual property rights remain with the licensor.
+
+The licensee shall maintain confidentiality of proprietary software information and shall not reverse engineer the software except where permitted by law.
+
+The license may terminate upon material breach. The licensee accepts limitations of liability and applicable governing law.
+
+Force majeure events may excuse performance when such events are outside reasonable control.
